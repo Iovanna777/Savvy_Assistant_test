@@ -3,7 +3,7 @@ Savvy Bot: Google Calendar Meeting Scheduler
 
 Описание проекта.
 
-Этот бот создан с использованием платформы Savvy https://app.suvvy.ai и предназначен для автоматизации двух ключевых задач:
+Этот бот создан с использованием платформы Savvy [https://app.suvvy.ai](https://app.suvvy.ai/?partner_id=67fa83ed5aafd49a2ebfa96e) и предназначен для автоматизации двух ключевых задач:
 
 Запись встреч в Google Календарь : Бот интегрируется с Google Calendar API для создания событий на основе предоставленных данных.
 
